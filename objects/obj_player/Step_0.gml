@@ -1,0 +1,1 @@
+speed = speed * 0.996;
