@@ -7,7 +7,7 @@
     "option_windows_borderless": false,
     "option_windows_company_info": "GGames",
     "option_windows_copyright_info": "(c) 2017 GGames",
-    "option_windows_description_info": "Destroy all the space rocks with your little triangualar space ship.",
+    "option_windows_description_info": "Destroy all the space rocks with your little triangular space ship.",
     "option_windows_display_cursor": true,
     "option_windows_display_name": "SpaceRocks",
     "option_windows_enable_steam": false,
